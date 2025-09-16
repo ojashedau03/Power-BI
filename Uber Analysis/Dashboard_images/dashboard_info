@@ -1,1 +1,19 @@
+These dashboards were built to practice data analysis and visualization
 
+1. Home Page 
+This is the landing dashboard that provides quick navigation to all other sections.  
+
+2. Overall Analysis  
+Gives a overview of performance metrics such as booking status, Ride Volume and more. 
+
+3. Vehicle Type Analysis 
+Breakdown of trips and performance by vehicle type (e.g., sedan, SUV, etc.).
+
+4. Revenue Analysis 
+Shows insights into distance distribution, payment methods and more. 
+
+5. Cancellation Analysis  
+Highlights trip cancellations, success bookings and reasons for cancellations.  
+
+6. Ratings Analysis
+Analyzes customer ratings to identify service quality and satisfaction levels.
